@@ -5,7 +5,8 @@
       "apellido": "Nuñez",
       "email": "eve@gmail.com",
       "rol": "admin",
-      "id": 1
+      "contrasena": "1234",
+      "token": "gfgfgfgfgf"
     },
     {
       "id": 2,
